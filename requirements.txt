@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 requests
-pydantic<2.0
+pydantic>=2.12
 pycryptodome
 protobuf
