@@ -4,3 +4,4 @@ requests
 pydantic>=2.12
 pycryptodome
 protobuf
+httpx
